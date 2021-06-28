@@ -1,1 +1,12 @@
-# CS_250_Sprint_Review
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+We interepret user needs by creating a user story which answers the how and whys of a user's need. User stories are helpful in that they give insight as to what the customer wants to do, what the customer is trying to accomplish, and why the customer wants to accomplish this. A user story may also go into detail and provide details on functionalities and accessibilities.
+
+# How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
+Developing a program first begins with identifying the problem and discussing a solution on how to solve it. In agile, the first step in developing a program is solving the problem and collecting data on it. This data can be collected from the client(s) in the form of user stories, and asking for verification on what they want implemented into the final product is important for saving on resources and time. A main process of agile development are sprints, which adhere to a condensed version of the waterfall model per sprint, but it focuses on agility and change. This means that during development, developers should embrace change as a common task to better develop the product.
+
+
+# What does it mean to be a good team member in software development?
+
+A good team member in software development is more than just contributing your own to the product, but also contributing to the team and other developers. One thing I learned from agile development that is encouraged moreso than traditional methods like waterfall is communication and being transparent. The Scrum-agile process has daily stand up meetings for people on the team to discuss what they have accomplished so far, what needs to be accomplished, and what obstacles impede them from their completion. Agile development as three prominent roles that each have their own unique jobs, but each are intertwined with one another that communication must be used to fully understand what is being asked and build a strong team. A good team member communicates but also helps other team members. In the case of the Scrum Master, they are always looking to make the lives of the developers easier and helping them with any other problems they might be facing at work. A Product Owner is in charge of creating the user stories and sending them to the product backlog, but some developers may need further clarification.
